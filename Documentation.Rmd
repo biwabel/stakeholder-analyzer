@@ -1,0 +1,9 @@
+---
+title: "Stakeholder Analyse Bericht"
+output: pdf_document
+params:
+  data: NULL
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)

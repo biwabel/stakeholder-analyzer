@@ -1,0 +1,7 @@
+shiny-app/
+├── app.R
+├── modules/
+│   ├── stakeholder_input.R
+│   ├── stakeholder_visualization.R
+└── data/
+    └── example_data.csv
